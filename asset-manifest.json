@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SweetnessDark/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/SweetnessDark/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/SweetnessDark/goit-react-hw-01-components/static/css/main.ed9c1cca.css",
+    "main.js": "/SweetnessDark/goit-react-hw-01-components/static/js/main.4e22c068.js",
     "index.html": "/SweetnessDark/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/SweetnessDark/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/SweetnessDark/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.ed9c1cca.css.map": "/SweetnessDark/goit-react-hw-01-components/static/css/main.ed9c1cca.css.map",
+    "main.4e22c068.js.map": "/SweetnessDark/goit-react-hw-01-components/static/js/main.4e22c068.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.ed9c1cca.css",
+    "static/js/main.4e22c068.js"
   ]
 }
