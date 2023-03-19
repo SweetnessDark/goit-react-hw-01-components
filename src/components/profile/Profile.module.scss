@@ -1,69 +1,68 @@
 .profile {
-    padding: 20px;
-    margin: 40px auto;
-    width: 358px;
-    background-color: #ebf5fc;
-    box-shadow: -2px -2px 5px #fff,3px 3px 5px rgba(0,0,0,.1);
-    border-radius: 10px;
+  padding: 20px;
+  margin: 40px auto;
+  width: 358px;
+  background-color: #ebf5fc;
+  box-shadow: -2px -2px 5px #fff, 3px 3px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
 }
 
 .description {
-    text-align: center;
-    color: crimson;
+  text-align: center;
+  color: crimson;
 }
 
 .avatar {
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 15px;
-    width: 150px;
-    display: block;
-    border-radius: 50%;
-    box-shadow: -2px -2px 5px #fff,3px 3px 5px rgba(0,0,0,.1);
-    background-color: #fff;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 15px;
+  width: 150px;
+  display: block;
+  border-radius: 50%;
+  box-shadow: -2px -2px 5px #fff, 3px 3px 5px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
 }
 
 .name {
-    padding-top: 20px;
-    font-size: 25px;
-    font-weight: 700;
-
+  padding-top: 20px;
+  font-size: 25px;
+  font-weight: 700;
 }
 
 .tag {
-    padding-top: 8px;
-    padding-bottom: 8px;
-    font-size: 15px;
-    color: grey;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 15px;
+  color: grey;
 }
 
 .location {
-    padding-bottom: 20px;
-    color: grey;
+  padding-bottom: 20px;
+  color: grey;
 }
 
 .stats {
-    display: flex;
-    gap: 20px;
+  display: flex;
+  gap: 20px;
 
-    li {
-        width: 115px;
-        display: flex;
-        text-align: center;
-        border: 1px solid grey;
-        flex-direction: column;
-        border-radius: 20px;
-    }
+  li {
+    width: 115px;
+    display: flex;
+    text-align: center;
+    border: 1px solid grey;
+    flex-direction: column;
+    border-radius: 20px;
+  }
 }
 
 .label {
-    padding: 3px;
-    color: orange;
-    font-size: 20px;
-    font-weight: 600;
+  padding: 3px;
+  color: orange;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .quantity {
-    padding: 3px;
-    font-weight: 700;
+  padding: 3px;
+  font-weight: 700;
 }

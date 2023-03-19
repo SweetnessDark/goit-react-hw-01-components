@@ -1,23 +1,23 @@
-.transaction-history {
-    padding: 20px;
-    margin: 40px auto;
-    width: 358px;
-    background-color: #ebf5fc;
-    box-shadow: -2px -2px 5px #fff,3px 3px 5px rgba(0,0,0,.1);
-    border-radius: 10px;
-    text-align: center;
+.transactionHistory {
+  padding: 20px;
+  margin: 40px auto;
+  width: 358px;
+  background-color: #ebf5fc;
+  box-shadow: -2px -2px 5px #fff, 3px 3px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
 
-    th {
-        padding: 5px;
-        color: crimson;
-        font-weight: 700;
-        font-size: 20px;
-    }
+  th {
+    padding: 5px;
+    color: crimson;
+    font-weight: 700;
+    font-size: 20px;
+  }
 
-    td {
-        padding: 5px;
-        color: orange;
-        font-weight: 700;
-        font-size: 15px;
-    }
+  td {
+    padding: 5px;
+    color: orange;
+    font-weight: 700;
+    font-size: 15px;
+  }
 }
